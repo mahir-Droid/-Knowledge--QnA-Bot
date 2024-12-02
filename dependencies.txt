@@ -1,0 +1,6 @@
+rdflib
+network
+transformers
+datasets
+wikipedia-api
+openai
