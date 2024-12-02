@@ -1,1 +1,1 @@
-# -Knowledge--QnA-Bot
+# Knowledge-QnA-Bot
