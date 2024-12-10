@@ -9,7 +9,7 @@ question = "Who wrote The Hitchhiker's Guide to the Galaxy?"
 # Simulate graph-based structured data
 context = """
 Douglas Adams is the author of The Hitchhiker's Guide to the Galaxy.
-The book was published in 1979.
+The book was published in 1979. 
 """
 
 response = qa_model(question=question, context=context)
