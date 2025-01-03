@@ -15,4 +15,4 @@ for subj, pred, obj in triples:
 def query_graph(graph, entity):
     return [(nbr, graph[entity][nbr]['relation']) for nbr in graph.neighbors(entity)]
 
-print(query_graph(G, "Douglas Adams"))
+print(query_graph(G, "Mostafa Mushsharat"))
