@@ -17,3 +17,5 @@ def answer_question(question, graph, qa_model):
 
 # Test the system
 print(answer_question("Who wrote The Hitchhiker's Guide to the Galaxy?", G, qa_model))
+
+#TODO: Create an interactive cli with qna multi line
